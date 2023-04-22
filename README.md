@@ -1,1 +1,1 @@
-# poc-go
+# Poof of Concept: Go
